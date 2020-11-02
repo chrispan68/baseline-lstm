@@ -2,3 +2,5 @@ data/*
 output/*
 generated*.txt
 *.pt
+
+__pycache__/*
